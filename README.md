@@ -41,7 +41,7 @@
 
 ## 📽 Demo Video
 
-📁 [Watch Demo Video](screenshots/demo.mp4)
+📁 [Watch Demo Video](mysteraliscreenshots/demo.mp4)
 
 > _Click the link to download or open the demo video locally._
 
@@ -50,7 +50,7 @@
 ##  Screenshots
 
 <p float="left">
-  <img src="screenshots/screen1.jpg" width="200"/>
+  <img src="**screenshots/screen1.jpg" width="200"/>
   <img src="screenshots/screen2.jpg" width="200"/>
   <img src="screenshots/screen3.jpg" width="200"/>
   <img src="screenshots/screen4.jpg" width="200"/>
