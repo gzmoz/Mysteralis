@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gzmoz/app/src/main/res/drawable/logo.png" width="150" alt="Mysteralis Logo" />
+  <img src="app/src/main/res/drawable/logo.png" width="150" alt="Mysteralis Logo" />
 </p>
 
 <h1 align="center">Mysteralis 🌌</h1>
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Overview
+## Overview
 
 **Mysteralis** is a modern Android application that blends NASA’s open data with AI technologies and live astronomical visuals. It allows users to explore daily space pictures, read astronomy news, ask AI-driven space questions, and observe the sky in real-time.
 
