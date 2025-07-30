@@ -41,9 +41,10 @@
 
 ## 📽 Demo Video
 
-📁 [Watch Demo Video](mysteraliscreenshots/demo.mp4)
+<p align="center">
+  <img src="screenshots/demo.gif" width="400" alt="Demo Preview"/>
+</p>
 
-> _Click the link to download or open the demo video locally._
 
 ---
 
@@ -60,7 +61,6 @@
   <img src="mysteraliscreenshots/ss8.jpg" width="200"/>
 </p>
 
-> _Main screen · APOD detail · Chatbot · Live sky tracking_
 
 ---
 
