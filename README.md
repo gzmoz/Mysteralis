@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gzmoz/Mysteralis/assets/YOUR_IMAGE_PATH/logo.png" width="150" alt="Mysteralis Logo" />
+  <img src="https://github.com/gzmoz/app/src/main/res/drawable/logo.png" width="150" alt="Mysteralis Logo" />
 </p>
 
 <h1 align="center">Mysteralis 🌌</h1>
@@ -16,18 +16,18 @@
 
 ---
 
-## 🌟 Features
+##  Features
 
-- 📷 **NASA APOD Integration** – Daily Astronomy Picture of the Day with explanations  
-- 🛰️ **NASA News Feed** – Powered by **Spaceflight News API** for real-time space updates  
-- 🤖 **AI Chatbot** – FLAN-T5 model via Hugging Face, answers space-related questions with source links  
-- 🔭 **Live Sky Tracking** – Integrated with **Stellarium Web Engine** to explore the night sky  
-- 💾 Save and view your favorite images  
-- 🔎 Source-enhanced AI responses using **DuckDuckGo API**
+-  **NASA APOD Integration** – Daily Astronomy Picture of the Day with explanations  
+-  **NASA News Feed** – Powered by **Spaceflight News API** for real-time space updates  
+-  **AI Chatbot** – FLAN-T5 model via Hugging Face, answers space-related questions with source links  
+-  **Live Sky Tracking** – Integrated with **Stellarium Web Engine** to explore the night sky  
+-  Save and view your favorite images  
+-  Source-enhanced AI responses using **DuckDuckGo API**
 
 ---
 
-## 🧑‍💻 Tech Stack
+##  Tech Stack
 
 - **Kotlin + Jetpack Compose**
 - **MVVM Architecture**
