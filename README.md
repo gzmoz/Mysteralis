@@ -39,11 +39,9 @@
 
 ---
 
-## 📽 Demo Video
+## Demo Video
 
-<p align="center">
-  <img src="mysteraliscreenshots/demo.gif" width="400" alt="Demo Preview"/>
-</p>
+📁 [Watch Demo Video](mysteraliscreenshots/demo.mp4)
 
 
 ---
