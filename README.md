@@ -42,7 +42,7 @@
 ## 📽 Demo Video
 
 <p align="center">
-  <img src="screenshots/demo.gif" width="400" alt="Demo Preview"/>
+  <img src="mysteraliscreenshots/demo.gif" width="400" alt="Demo Preview"/>
 </p>
 
 
