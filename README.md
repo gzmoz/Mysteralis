@@ -50,10 +50,14 @@
 ##  Screenshots
 
 <p float="left">
-  <img src="**screenshots/screen1.jpg" width="200"/>
-  <img src="screenshots/screen2.jpg" width="200"/>
-  <img src="screenshots/screen3.jpg" width="200"/>
-  <img src="screenshots/screen4.jpg" width="200"/>
+  <img src="mysteraliscreenshots/ss1.jpg" width="200"/>
+  <img src="mysteraliscreenshots/ss2.jpg" width="200"/>
+  <img src="mysteraliscreenshots/ss3.jpg" width="200"/>
+  <img src="mysteraliscreenshots/ss4.jpg" width="200"/>
+  <img src="mysteraliscreenshots/ss5.jpg" width="200"/>
+  <img src="mysteraliscreenshots/ss6jpg" width="200"/>
+  <img src="mysteraliscreenshots/ss7.jpg" width="200"/>
+  <img src="mysteraliscreenshots/ss8.jpg" width="200"/>
 </p>
 
 > _Main screen · APOD detail · Chatbot · Live sky tracking_
