@@ -41,7 +41,7 @@
 
 ## Demo Video
 
-📁 [Watch Demo Video](mysteraliscreenshots/demo.mp4)
+[![Mysteralis!](https://snipboard.io/1lgxzi.jpg)](https://youtube.com/shorts/Sv1tnurWm3s)
 
 
 ---
