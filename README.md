@@ -2,7 +2,7 @@
   <img src="app/src/main/res/drawable/logo.png" width="150" alt="Mysteralis Logo" />
 </p>
 
-<h1 align="center">Mysteralis 🌌</h1>
+<h1 align="center">Mysteralis</h1>
 
 <p align="center">
   Explore the universe through real-time NASA data, AI assistance, and interactive sky tracking — all in a single Android app.
